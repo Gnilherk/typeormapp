@@ -12,7 +12,7 @@
     "apollo-boost": "^0.4.3",
     "apollo-server-express": "^2.8.1",
     "graphql": "^14.4.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "meteor-node-stubs": "^0.4.1",
     "oracledb": "3.1.2",
     "react": "^16.8.6",
